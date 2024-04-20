@@ -16,6 +16,7 @@ This initiative aims to examine how incorporating multiple cryptocurrencies with
 As expected, a diverse set of stocks were able to generalise the model better than the model only with co-related stocks.
 Increase in sequence length did not necessarily decrease the prediction error.
 ![image](https://github.com/vishnuponduri1/Multivariate-Time-Series-Forecasting-Evaluating-Price-Prediction-of-Cryptocurrencies/assets/155207236/1a2e3de4-e324-4785-96dd-e2ead1115e3a)
+![image](https://github.com/vishnuponduri1/Multivariate-Time-Series-Forecasting-Evaluating-Price-Prediction-of-Cryptocurrencies/assets/155207236/41cba0be-56dc-4b33-a7e0-98f58c4c756f)
 
 
 
